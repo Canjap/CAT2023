@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@m-media/npm-cartes-io": "^0.1.2",
+    "leaflet": "^1.9.4",
     "vite": "^4.5.1"
   }
 }

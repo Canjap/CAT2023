@@ -95,3 +95,11 @@ main {
     flex-direction: column;
   }
 }
+
+.x{
+  background-color: red;
+}
+
+.y{
+  background-color: blue;
+}
